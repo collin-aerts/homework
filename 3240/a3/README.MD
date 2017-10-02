@@ -1,0 +1,1 @@
+A simple shell created to learn how to create and use pipes and processes
